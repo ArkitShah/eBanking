@@ -1,5 +1,4 @@
-# eBanking
- Project
+# e-Banking Project
 
 
 This project was my first ever Web Development Project. Although this project need many more improvements, it shows some of the basic functionalities of an e-Banking website. 
